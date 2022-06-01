@@ -1,0 +1,37 @@
+TEST1
+a u c o
+n l n i
+o s a e
+m a i e
+n
+TEST2
+a u c o
+n l n i
+o s a e
+m a i e
+y
+TEST3
+a s d e
+j j a s
+e w s f
+p o k f
+n
+TEST4
+a s d e
+j j a s
+e w s f
+p o k f
+y
+TEST5
+r e t w
+s a f i
+l a o g
+j k c i
+n
+TEST6
+r e t w
+s a f i
+l a o g
+j k c i
+y
+QUIT

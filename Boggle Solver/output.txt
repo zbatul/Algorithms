@@ -1,0 +1,2531 @@
+TEST
+
+127142 words loaded.
+
+
+Enter Board
+------------
+Row 0: a u c o 
+Row 1: n l n i 
+Row 2: o s a e 
+Row 3: m a i e 
+Show Board (y/n)?: n
+1	ala
+2	alae
+3	alan
+4	alane
+5	alans
+6	alas
+7	alnico
+8	als
+9	also
+10	anlas
+11	anoa
+12	anoas
+13	ansa
+14	ansae
+15	ulan
+16	ulans
+17	ulna
+18	ulnae
+19	ulnas
+20	unai
+21	unais
+22	unci
+23	uncia
+24	unciae
+25	uncial
+26	uncials
+27	unco
+28	uns
+29	cine
+30	cion
+31	cions
+32	clan
+33	clans
+34	clon
+35	clons
+36	coin
+37	coins
+38	con
+39	cone
+40	coni
+41	cons
+42	consol
+43	cuneal
+44	one
+45	ons
+46	nom
+47	noma
+48	nomas
+49	noms
+50	nos
+51	nun
+52	nuncio
+53	nuns
+54	laic
+55	lain
+56	lane
+57	las
+58	loam
+59	loams
+60	luna
+61	lunas
+62	lune
+63	nae
+64	nee
+65	icon
+66	icons
+67	inocula
+68	ins
+69	ion
+70	ions
+71	omasa
+72	oms
+73	sae
+74	sain
+75	sal
+76	salon
+77	sane
+78	sial
+79	slain
+80	sol
+81	sola
+82	solan
+83	solano
+84	soma
+85	son
+86	aas
+87	ain
+88	ains
+89	ais
+90	ane
+91	ani
+92	ens
+93	mas
+94	mason
+95	moa
+96	moas
+97	mol
+98	mola
+99	molas
+100	mols
+101	mon
+102	mons
+103	mos
+104	mosaic
+105	aal
+106	aals
+107	ism
+
+Enter Board
+------------
+Row 0: a u c o 
+Row 1: n l n i 
+Row 2: o s a e 
+Row 3: m a i e 
+Show Board (y/n)?: y
+Word: ala
+Number of Words: 1
+'a'	 u 	 c 	 o 		1	0	0	0	
+ n 	'l'	 n 	 i 		0	2	0	0	
+ o 	 s 	'a'	 e 		0	0	3	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: alae
+Number of Words: 2
+'a'	 u 	 c 	 o 		1	0	0	0	
+ n 	'l'	 n 	 i 		0	2	0	0	
+ o 	 s 	'a'	 e 		0	0	3	0	
+ m 	 a 	 i 	'e'		0	0	0	4	
+Word: alan
+Number of Words: 3
+'a'	 u 	 c 	 o 		1	0	0	0	
+ n 	'l'	'n'	 i 		0	2	4	0	
+ o 	 s 	'a'	 e 		0	0	3	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: alane
+Number of Words: 4
+'a'	 u 	 c 	 o 		1	0	0	0	
+ n 	'l'	'n'	 i 		0	2	4	0	
+ o 	 s 	'a'	'e'		0	0	3	5	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: alans
+Number of Words: 5
+'a'	 u 	 c 	 o 		1	0	0	0	
+ n 	'l'	'n'	 i 		0	2	4	0	
+ o 	's'	'a'	 e 		0	5	3	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: alas
+Number of Words: 6
+'a'	 u 	 c 	 o 		1	0	0	0	
+ n 	'l'	 n 	 i 		0	2	0	0	
+ o 	's'	'a'	 e 		0	4	3	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: alnico
+Number of Words: 7
+'a'	 u 	'c'	'o'		1	0	5	6	
+ n 	'l'	'n'	'i'		0	2	3	4	
+ o 	 s 	 a 	 e 		0	0	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: als
+Number of Words: 8
+'a'	 u 	 c 	 o 		1	0	0	0	
+ n 	'l'	 n 	 i 		0	2	0	0	
+ o 	's'	 a 	 e 		0	3	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: also
+Number of Words: 9
+'a'	 u 	 c 	 o 		1	0	0	0	
+ n 	'l'	 n 	 i 		0	2	0	0	
+'o'	's'	 a 	 e 		4	3	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: anlas
+Number of Words: 10
+'a'	 u 	 c 	 o 		1	0	0	0	
+'n'	'l'	 n 	 i 		2	3	0	0	
+ o 	's'	'a'	 e 		0	5	4	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: anoa
+Number of Words: 11
+'a'	 u 	 c 	 o 		1	0	0	0	
+'n'	 l 	 n 	 i 		2	0	0	0	
+'o'	 s 	 a 	 e 		3	0	0	0	
+ m 	'a'	 i 	 e 		0	4	0	0	
+Word: anoas
+Number of Words: 12
+'a'	 u 	 c 	 o 		1	0	0	0	
+'n'	 l 	 n 	 i 		2	0	0	0	
+'o'	's'	 a 	 e 		3	5	0	0	
+ m 	'a'	 i 	 e 		0	4	0	0	
+Word: ansa
+Number of Words: 13
+'a'	 u 	 c 	 o 		1	0	0	0	
+'n'	 l 	 n 	 i 		2	0	0	0	
+ o 	's'	'a'	 e 		0	3	4	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: ansae
+Number of Words: 14
+'a'	 u 	 c 	 o 		1	0	0	0	
+'n'	 l 	 n 	 i 		2	0	0	0	
+ o 	's'	'a'	 e 		0	3	4	0	
+ m 	 a 	 i 	'e'		0	0	0	5	
+Word: ulan
+Number of Words: 15
+ a 	'u'	 c 	 o 		0	1	0	0	
+ n 	'l'	'n'	 i 		0	2	4	0	
+ o 	 s 	'a'	 e 		0	0	3	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: ulans
+Number of Words: 16
+ a 	'u'	 c 	 o 		0	1	0	0	
+ n 	'l'	'n'	 i 		0	2	4	0	
+ o 	's'	'a'	 e 		0	5	3	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: ulna
+Number of Words: 17
+ a 	'u'	 c 	 o 		0	1	0	0	
+ n 	'l'	'n'	 i 		0	2	3	0	
+ o 	 s 	'a'	 e 		0	0	4	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: ulnae
+Number of Words: 18
+ a 	'u'	 c 	 o 		0	1	0	0	
+ n 	'l'	'n'	 i 		0	2	3	0	
+ o 	 s 	'a'	 e 		0	0	4	0	
+ m 	 a 	 i 	'e'		0	0	0	5	
+Word: ulnas
+Number of Words: 19
+ a 	'u'	 c 	 o 		0	1	0	0	
+ n 	'l'	'n'	 i 		0	2	3	0	
+ o 	's'	'a'	 e 		0	5	4	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: unai
+Number of Words: 20
+ a 	'u'	 c 	 o 		0	1	0	0	
+ n 	 l 	'n'	'i'		0	0	2	4	
+ o 	 s 	'a'	 e 		0	0	3	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: unais
+Number of Words: 21
+ a 	'u'	 c 	 o 		0	1	0	0	
+ n 	 l 	'n'	 i 		0	0	2	0	
+ o 	's'	'a'	 e 		0	5	3	0	
+ m 	 a 	'i'	 e 		0	0	4	0	
+Word: unci
+Number of Words: 22
+ a 	'u'	'c'	 o 		0	1	3	0	
+ n 	 l 	'n'	'i'		0	0	2	4	
+ o 	 s 	 a 	 e 		0	0	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: uncia
+Number of Words: 23
+ a 	'u'	'c'	 o 		0	1	3	0	
+ n 	 l 	'n'	'i'		0	0	2	4	
+ o 	 s 	'a'	 e 		0	0	5	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: unciae
+Number of Words: 24
+ a 	'u'	'c'	 o 		0	1	3	0	
+ n 	 l 	'n'	'i'		0	0	2	4	
+ o 	 s 	'a'	 e 		0	0	5	0	
+ m 	 a 	 i 	'e'		0	0	0	6	
+Word: uncial
+Number of Words: 25
+ a 	'u'	'c'	 o 		0	1	3	0	
+ n 	'l'	'n'	'i'		0	6	2	4	
+ o 	 s 	'a'	 e 		0	0	5	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: uncials
+Number of Words: 26
+ a 	'u'	'c'	 o 		0	1	3	0	
+ n 	'l'	'n'	'i'		0	6	2	4	
+ o 	's'	'a'	 e 		0	7	5	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: unco
+Number of Words: 27
+ a 	'u'	'c'	'o'		0	1	3	4	
+ n 	 l 	'n'	 i 		0	0	2	0	
+ o 	 s 	 a 	 e 		0	0	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: uns
+Number of Words: 28
+ a 	'u'	 c 	 o 		0	1	0	0	
+ n 	 l 	'n'	 i 		0	0	2	0	
+ o 	's'	 a 	 e 		0	3	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: cine
+Number of Words: 29
+ a 	 u 	'c'	 o 		0	0	1	0	
+ n 	 l 	'n'	'i'		0	0	3	2	
+ o 	 s 	 a 	'e'		0	0	0	4	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: cion
+Number of Words: 30
+ a 	 u 	'c'	'o'		0	0	1	3	
+ n 	 l 	'n'	'i'		0	0	4	2	
+ o 	 s 	 a 	 e 		0	0	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: cions
+Number of Words: 31
+ a 	 u 	'c'	'o'		0	0	1	3	
+ n 	 l 	'n'	'i'		0	0	4	2	
+ o 	's'	 a 	 e 		0	5	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: clan
+Number of Words: 32
+ a 	 u 	'c'	 o 		0	0	1	0	
+ n 	'l'	'n'	 i 		0	2	4	0	
+ o 	 s 	'a'	 e 		0	0	3	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: clans
+Number of Words: 33
+ a 	 u 	'c'	 o 		0	0	1	0	
+ n 	'l'	'n'	 i 		0	2	4	0	
+ o 	's'	'a'	 e 		0	5	3	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: clon
+Number of Words: 34
+ a 	 u 	'c'	 o 		0	0	1	0	
+'n'	'l'	 n 	 i 		4	2	0	0	
+'o'	 s 	 a 	 e 		3	0	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: clons
+Number of Words: 35
+ a 	 u 	'c'	 o 		0	0	1	0	
+'n'	'l'	 n 	 i 		4	2	0	0	
+'o'	's'	 a 	 e 		3	5	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: coin
+Number of Words: 36
+ a 	 u 	'c'	'o'		0	0	1	2	
+ n 	 l 	'n'	'i'		0	0	4	3	
+ o 	 s 	 a 	 e 		0	0	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: coins
+Number of Words: 37
+ a 	 u 	'c'	'o'		0	0	1	2	
+ n 	 l 	'n'	'i'		0	0	4	3	
+ o 	's'	 a 	 e 		0	5	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: con
+Number of Words: 38
+ a 	 u 	'c'	'o'		0	0	1	2	
+ n 	 l 	'n'	 i 		0	0	3	0	
+ o 	 s 	 a 	 e 		0	0	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: cone
+Number of Words: 39
+ a 	 u 	'c'	'o'		0	0	1	2	
+ n 	 l 	'n'	 i 		0	0	3	0	
+ o 	 s 	 a 	'e'		0	0	0	4	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: coni
+Number of Words: 40
+ a 	 u 	'c'	'o'		0	0	1	2	
+ n 	 l 	'n'	'i'		0	0	3	4	
+ o 	 s 	 a 	 e 		0	0	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: cons
+Number of Words: 41
+ a 	 u 	'c'	'o'		0	0	1	2	
+ n 	 l 	'n'	 i 		0	0	3	0	
+ o 	's'	 a 	 e 		0	4	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: consol
+Number of Words: 42
+ a 	 u 	'c'	'o'		0	0	1	2	
+ n 	'l'	'n'	 i 		0	6	3	0	
+'o'	's'	 a 	 e 		5	4	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: cuneal
+Number of Words: 43
+ a 	'u'	'c'	 o 		0	2	1	0	
+ n 	'l'	'n'	 i 		0	6	3	0	
+ o 	 s 	'a'	'e'		0	0	5	4	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: one
+Number of Words: 44
+ a 	 u 	 c 	'o'		0	0	0	1	
+ n 	 l 	'n'	 i 		0	0	2	0	
+ o 	 s 	 a 	'e'		0	0	0	3	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: ons
+Number of Words: 45
+ a 	 u 	 c 	'o'		0	0	0	1	
+ n 	 l 	'n'	 i 		0	0	2	0	
+ o 	's'	 a 	 e 		0	3	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: nom
+Number of Words: 46
+ a 	 u 	 c 	 o 		0	0	0	0	
+'n'	 l 	 n 	 i 		1	0	0	0	
+'o'	 s 	 a 	 e 		2	0	0	0	
+'m'	 a 	 i 	 e 		3	0	0	0	
+Word: noma
+Number of Words: 47
+ a 	 u 	 c 	 o 		0	0	0	0	
+'n'	 l 	 n 	 i 		1	0	0	0	
+'o'	 s 	 a 	 e 		2	0	0	0	
+'m'	'a'	 i 	 e 		3	4	0	0	
+Word: nomas
+Number of Words: 48
+ a 	 u 	 c 	 o 		0	0	0	0	
+'n'	 l 	 n 	 i 		1	0	0	0	
+'o'	's'	 a 	 e 		2	5	0	0	
+'m'	'a'	 i 	 e 		3	4	0	0	
+Word: noms
+Number of Words: 49
+ a 	 u 	 c 	 o 		0	0	0	0	
+'n'	 l 	 n 	 i 		1	0	0	0	
+'o'	's'	 a 	 e 		2	4	0	0	
+'m'	 a 	 i 	 e 		3	0	0	0	
+Word: nos
+Number of Words: 50
+ a 	 u 	 c 	 o 		0	0	0	0	
+'n'	 l 	 n 	 i 		1	0	0	0	
+'o'	's'	 a 	 e 		2	3	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: nun
+Number of Words: 51
+ a 	'u'	 c 	 o 		0	2	0	0	
+'n'	 l 	'n'	 i 		1	0	3	0	
+ o 	 s 	 a 	 e 		0	0	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: nuncio
+Number of Words: 52
+ a 	'u'	'c'	'o'		0	2	4	6	
+'n'	 l 	'n'	'i'		1	0	3	5	
+ o 	 s 	 a 	 e 		0	0	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: nuns
+Number of Words: 53
+ a 	'u'	 c 	 o 		0	2	0	0	
+'n'	 l 	'n'	 i 		1	0	3	0	
+ o 	's'	 a 	 e 		0	4	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: laic
+Number of Words: 54
+ a 	 u 	'c'	 o 		0	0	4	0	
+ n 	'l'	 n 	'i'		0	1	0	3	
+ o 	 s 	'a'	 e 		0	0	2	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: lain
+Number of Words: 55
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	'l'	'n'	'i'		0	1	4	3	
+ o 	 s 	'a'	 e 		0	0	2	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: lane
+Number of Words: 56
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	'l'	'n'	 i 		0	1	3	0	
+ o 	 s 	'a'	'e'		0	0	2	4	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: las
+Number of Words: 57
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	'l'	 n 	 i 		0	1	0	0	
+ o 	's'	'a'	 e 		0	3	2	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: loam
+Number of Words: 58
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	'l'	 n 	 i 		0	1	0	0	
+'o'	 s 	 a 	 e 		2	0	0	0	
+'m'	'a'	 i 	 e 		4	3	0	0	
+Word: loams
+Number of Words: 59
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	'l'	 n 	 i 		0	1	0	0	
+'o'	's'	 a 	 e 		2	5	0	0	
+'m'	'a'	 i 	 e 		4	3	0	0	
+Word: luna
+Number of Words: 60
+ a 	'u'	 c 	 o 		0	2	0	0	
+ n 	'l'	'n'	 i 		0	1	3	0	
+ o 	 s 	'a'	 e 		0	0	4	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: lunas
+Number of Words: 61
+ a 	'u'	 c 	 o 		0	2	0	0	
+ n 	'l'	'n'	 i 		0	1	3	0	
+ o 	's'	'a'	 e 		0	5	4	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: lune
+Number of Words: 62
+ a 	'u'	 c 	 o 		0	2	0	0	
+ n 	'l'	'n'	 i 		0	1	3	0	
+ o 	 s 	 a 	'e'		0	0	0	4	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: nae
+Number of Words: 63
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	'n'	 i 		0	0	1	0	
+ o 	 s 	'a'	 e 		0	0	2	0	
+ m 	 a 	 i 	'e'		0	0	0	3	
+Word: nee
+Number of Words: 64
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	'n'	 i 		0	0	1	0	
+ o 	 s 	 a 	'e'		0	0	0	2	
+ m 	 a 	 i 	'e'		0	0	0	3	
+Word: icon
+Number of Words: 65
+ a 	 u 	'c'	'o'		0	0	2	3	
+ n 	 l 	'n'	'i'		0	0	4	1	
+ o 	 s 	 a 	 e 		0	0	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: icons
+Number of Words: 66
+ a 	 u 	'c'	'o'		0	0	2	3	
+ n 	 l 	'n'	'i'		0	0	4	1	
+ o 	's'	 a 	 e 		0	5	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: inocula
+Number of Words: 67
+ a 	'u'	'c'	'o'		0	5	4	3	
+ n 	'l'	'n'	'i'		0	6	2	1	
+ o 	 s 	'a'	 e 		0	0	7	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: ins
+Number of Words: 68
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	'n'	'i'		0	0	2	1	
+ o 	's'	 a 	 e 		0	3	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: ion
+Number of Words: 69
+ a 	 u 	 c 	'o'		0	0	0	2	
+ n 	 l 	'n'	'i'		0	0	3	1	
+ o 	 s 	 a 	 e 		0	0	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: ions
+Number of Words: 70
+ a 	 u 	 c 	'o'		0	0	0	2	
+ n 	 l 	'n'	'i'		0	0	3	1	
+ o 	's'	 a 	 e 		0	4	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: omasa
+Number of Words: 71
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	 n 	 i 		0	0	0	0	
+'o'	's'	'a'	 e 		1	4	5	0	
+'m'	'a'	 i 	 e 		2	3	0	0	
+Word: oms
+Number of Words: 72
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	 n 	 i 		0	0	0	0	
+'o'	's'	 a 	 e 		1	3	0	0	
+'m'	 a 	 i 	 e 		2	0	0	0	
+Word: sae
+Number of Words: 73
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	 n 	 i 		0	0	0	0	
+ o 	's'	'a'	 e 		0	1	2	0	
+ m 	 a 	 i 	'e'		0	0	0	3	
+Word: sain
+Number of Words: 74
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	'n'	'i'		0	0	4	3	
+ o 	's'	'a'	 e 		0	1	2	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: sal
+Number of Words: 75
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	'l'	 n 	 i 		0	3	0	0	
+ o 	's'	'a'	 e 		0	1	2	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: salon
+Number of Words: 76
+ a 	 u 	 c 	 o 		0	0	0	0	
+'n'	'l'	 n 	 i 		5	3	0	0	
+'o'	's'	'a'	 e 		4	1	2	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: sane
+Number of Words: 77
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	'n'	 i 		0	0	3	0	
+ o 	's'	'a'	'e'		0	1	2	4	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: sial
+Number of Words: 78
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	'l'	 n 	 i 		0	4	0	0	
+ o 	's'	'a'	 e 		0	1	3	0	
+ m 	 a 	'i'	 e 		0	0	2	0	
+Word: slain
+Number of Words: 79
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	'l'	'n'	'i'		0	2	5	4	
+ o 	's'	'a'	 e 		0	1	3	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: sol
+Number of Words: 80
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	'l'	 n 	 i 		0	3	0	0	
+'o'	's'	 a 	 e 		2	1	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: sola
+Number of Words: 81
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	'l'	 n 	 i 		0	3	0	0	
+'o'	's'	'a'	 e 		2	1	4	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: solan
+Number of Words: 82
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	'l'	'n'	 i 		0	3	5	0	
+'o'	's'	'a'	 e 		2	1	4	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: solano
+Number of Words: 83
+ a 	 u 	 c 	'o'		0	0	0	6	
+ n 	'l'	'n'	 i 		0	3	5	0	
+'o'	's'	'a'	 e 		2	1	4	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: soma
+Number of Words: 84
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	 n 	 i 		0	0	0	0	
+'o'	's'	 a 	 e 		2	1	0	0	
+'m'	'a'	 i 	 e 		3	4	0	0	
+Word: son
+Number of Words: 85
+ a 	 u 	 c 	 o 		0	0	0	0	
+'n'	 l 	 n 	 i 		3	0	0	0	
+'o'	's'	 a 	 e 		2	1	0	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: aas
+Number of Words: 86
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	 n 	 i 		0	0	0	0	
+ o 	's'	'a'	 e 		0	3	1	0	
+ m 	'a'	 i 	 e 		0	2	0	0	
+Word: ain
+Number of Words: 87
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	'n'	'i'		0	0	3	2	
+ o 	 s 	'a'	 e 		0	0	1	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: ains
+Number of Words: 88
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	'n'	'i'		0	0	3	2	
+ o 	's'	'a'	 e 		0	4	1	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: ais
+Number of Words: 89
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	 n 	 i 		0	0	0	0	
+ o 	's'	'a'	 e 		0	3	1	0	
+ m 	 a 	'i'	 e 		0	0	2	0	
+Word: ane
+Number of Words: 90
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	'n'	 i 		0	0	2	0	
+ o 	 s 	'a'	'e'		0	0	1	3	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: ani
+Number of Words: 91
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	'n'	'i'		0	0	2	3	
+ o 	 s 	'a'	 e 		0	0	1	0	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: ens
+Number of Words: 92
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	'n'	 i 		0	0	2	0	
+ o 	's'	 a 	'e'		0	3	0	1	
+ m 	 a 	 i 	 e 		0	0	0	0	
+Word: mas
+Number of Words: 93
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	 n 	 i 		0	0	0	0	
+ o 	's'	 a 	 e 		0	3	0	0	
+'m'	'a'	 i 	 e 		1	2	0	0	
+Word: mason
+Number of Words: 94
+ a 	 u 	 c 	 o 		0	0	0	0	
+'n'	 l 	 n 	 i 		5	0	0	0	
+'o'	's'	 a 	 e 		4	3	0	0	
+'m'	'a'	 i 	 e 		1	2	0	0	
+Word: moa
+Number of Words: 95
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	 n 	 i 		0	0	0	0	
+'o'	 s 	 a 	 e 		2	0	0	0	
+'m'	'a'	 i 	 e 		1	3	0	0	
+Word: moas
+Number of Words: 96
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	 n 	 i 		0	0	0	0	
+'o'	's'	 a 	 e 		2	4	0	0	
+'m'	'a'	 i 	 e 		1	3	0	0	
+Word: mol
+Number of Words: 97
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	'l'	 n 	 i 		0	3	0	0	
+'o'	 s 	 a 	 e 		2	0	0	0	
+'m'	 a 	 i 	 e 		1	0	0	0	
+Word: mola
+Number of Words: 98
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	'l'	 n 	 i 		0	3	0	0	
+'o'	 s 	'a'	 e 		2	0	4	0	
+'m'	 a 	 i 	 e 		1	0	0	0	
+Word: molas
+Number of Words: 99
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	'l'	 n 	 i 		0	3	0	0	
+'o'	's'	'a'	 e 		2	5	4	0	
+'m'	 a 	 i 	 e 		1	0	0	0	
+Word: mols
+Number of Words: 100
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	'l'	 n 	 i 		0	3	0	0	
+'o'	's'	 a 	 e 		2	4	0	0	
+'m'	 a 	 i 	 e 		1	0	0	0	
+Word: mon
+Number of Words: 101
+ a 	 u 	 c 	 o 		0	0	0	0	
+'n'	 l 	 n 	 i 		3	0	0	0	
+'o'	 s 	 a 	 e 		2	0	0	0	
+'m'	 a 	 i 	 e 		1	0	0	0	
+Word: mons
+Number of Words: 102
+ a 	 u 	 c 	 o 		0	0	0	0	
+'n'	 l 	 n 	 i 		3	0	0	0	
+'o'	's'	 a 	 e 		2	4	0	0	
+'m'	 a 	 i 	 e 		1	0	0	0	
+Word: mos
+Number of Words: 103
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	 n 	 i 		0	0	0	0	
+'o'	's'	 a 	 e 		2	3	0	0	
+'m'	 a 	 i 	 e 		1	0	0	0	
+Word: mosaic
+Number of Words: 104
+ a 	 u 	'c'	 o 		0	0	6	0	
+ n 	 l 	 n 	'i'		0	0	0	5	
+'o'	's'	'a'	 e 		2	3	4	0	
+'m'	 a 	 i 	 e 		1	0	0	0	
+Word: aal
+Number of Words: 105
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	'l'	 n 	 i 		0	3	0	0	
+ o 	 s 	'a'	 e 		0	0	2	0	
+ m 	'a'	 i 	 e 		0	1	0	0	
+Word: aals
+Number of Words: 106
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	'l'	 n 	 i 		0	3	0	0	
+ o 	's'	'a'	 e 		0	4	2	0	
+ m 	'a'	 i 	 e 		0	1	0	0	
+Word: ism
+Number of Words: 107
+ a 	 u 	 c 	 o 		0	0	0	0	
+ n 	 l 	 n 	 i 		0	0	0	0	
+ o 	's'	 a 	 e 		0	2	0	0	
+'m'	 a 	'i'	 e 		3	0	1	0	
+
+Enter Board
+------------
+Row 0: a s d e 
+Row 1: j j a s 
+Row 2: e w s f 
+Row 3: p o k f 
+Show Board (y/n)?: n
+1	sad
+2	sade
+3	sades
+4	sae
+5	sass
+6	sassed
+7	saw
+8	saws
+9	daff
+10	daffs
+11	daw
+12	dawk
+13	dawks
+14	daws
+15	deaf
+16	des
+17	ess
+18	jew
+19	jews
+20	jade
+21	jades
+22	jaw
+23	jaws
+24	ads
+25	aff
+26	ass
+27	ask
+28	awe
+29	sea
+30	seas
+31	epos
+32	wad
+33	wade
+34	wades
+35	wads
+36	wae
+37	waes
+38	waff
+39	waffs
+40	was
+41	woe
+42	wok
+43	woks
+44	wop
+45	wos
+46	sop
+47	sow
+48	swop
+49	fad
+50	fade
+51	fades
+52	fads
+53	fas
+54	pew
+55	pews
+56	posse
+57	pow
+58	pows
+59	ope
+60	ossa
+61	owe
+62	kop
+63	kos
+64	koss
+
+Enter Board
+------------
+Row 0: a s d e 
+Row 1: j j a s 
+Row 2: e w s f 
+Row 3: p o k f 
+Show Board (y/n)?: y
+Word: sad
+Number of Words: 1
+ a 	's'	'd'	 e 		0	1	3	0	
+ j 	 j 	'a'	 s 		0	0	2	0	
+ e 	 w 	 s 	 f 		0	0	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: sade
+Number of Words: 2
+ a 	's'	'd'	'e'		0	1	3	4	
+ j 	 j 	'a'	 s 		0	0	2	0	
+ e 	 w 	 s 	 f 		0	0	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: sades
+Number of Words: 3
+ a 	's'	'd'	'e'		0	1	3	4	
+ j 	 j 	'a'	's'		0	0	2	5	
+ e 	 w 	 s 	 f 		0	0	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: sae
+Number of Words: 4
+ a 	's'	 d 	'e'		0	1	0	3	
+ j 	 j 	'a'	 s 		0	0	2	0	
+ e 	 w 	 s 	 f 		0	0	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: sass
+Number of Words: 5
+ a 	's'	 d 	 e 		0	1	0	0	
+ j 	 j 	'a'	's'		0	0	2	3	
+ e 	 w 	's'	 f 		0	0	4	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: sassed
+Number of Words: 6
+ a 	's'	'd'	'e'		0	1	6	5	
+ j 	 j 	'a'	's'		0	0	2	4	
+ e 	 w 	's'	 f 		0	0	3	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: saw
+Number of Words: 7
+ a 	's'	 d 	 e 		0	1	0	0	
+ j 	 j 	'a'	 s 		0	0	2	0	
+ e 	'w'	 s 	 f 		0	3	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: saws
+Number of Words: 8
+ a 	's'	 d 	 e 		0	1	0	0	
+ j 	 j 	'a'	 s 		0	0	2	0	
+ e 	'w'	's'	 f 		0	3	4	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: daff
+Number of Words: 9
+ a 	 s 	'd'	 e 		0	0	1	0	
+ j 	 j 	'a'	 s 		0	0	2	0	
+ e 	 w 	 s 	'f'		0	0	0	3	
+ p 	 o 	 k 	'f'		0	0	0	4	
+Word: daffs
+Number of Words: 10
+ a 	 s 	'd'	 e 		0	0	1	0	
+ j 	 j 	'a'	 s 		0	0	2	0	
+ e 	 w 	's'	'f'		0	0	5	3	
+ p 	 o 	 k 	'f'		0	0	0	4	
+Word: daw
+Number of Words: 11
+ a 	 s 	'd'	 e 		0	0	1	0	
+ j 	 j 	'a'	 s 		0	0	2	0	
+ e 	'w'	 s 	 f 		0	3	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: dawk
+Number of Words: 12
+ a 	 s 	'd'	 e 		0	0	1	0	
+ j 	 j 	'a'	 s 		0	0	2	0	
+ e 	'w'	 s 	 f 		0	3	0	0	
+ p 	 o 	'k'	 f 		0	0	4	0	
+Word: dawks
+Number of Words: 13
+ a 	 s 	'd'	 e 		0	0	1	0	
+ j 	 j 	'a'	 s 		0	0	2	0	
+ e 	'w'	's'	 f 		0	3	5	0	
+ p 	 o 	'k'	 f 		0	0	4	0	
+Word: daws
+Number of Words: 14
+ a 	 s 	'd'	 e 		0	0	1	0	
+ j 	 j 	'a'	 s 		0	0	2	0	
+ e 	'w'	's'	 f 		0	3	4	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: deaf
+Number of Words: 15
+ a 	 s 	'd'	'e'		0	0	1	2	
+ j 	 j 	'a'	 s 		0	0	3	0	
+ e 	 w 	 s 	'f'		0	0	0	4	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: des
+Number of Words: 16
+ a 	 s 	'd'	'e'		0	0	1	2	
+ j 	 j 	 a 	's'		0	0	0	3	
+ e 	 w 	 s 	 f 		0	0	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: ess
+Number of Words: 17
+ a 	 s 	 d 	'e'		0	0	0	1	
+ j 	 j 	 a 	's'		0	0	0	2	
+ e 	 w 	's'	 f 		0	0	3	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: jew
+Number of Words: 18
+ a 	 s 	 d 	 e 		0	0	0	0	
+'j'	 j 	 a 	 s 		1	0	0	0	
+'e'	'w'	 s 	 f 		2	3	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: jews
+Number of Words: 19
+ a 	 s 	 d 	 e 		0	0	0	0	
+'j'	 j 	 a 	 s 		1	0	0	0	
+'e'	'w'	's'	 f 		2	3	4	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: jade
+Number of Words: 20
+ a 	 s 	'd'	'e'		0	0	3	4	
+ j 	'j'	'a'	 s 		0	1	2	0	
+ e 	 w 	 s 	 f 		0	0	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: jades
+Number of Words: 21
+ a 	 s 	'd'	'e'		0	0	3	4	
+ j 	'j'	'a'	's'		0	1	2	5	
+ e 	 w 	 s 	 f 		0	0	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: jaw
+Number of Words: 22
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	'j'	'a'	 s 		0	1	2	0	
+ e 	'w'	 s 	 f 		0	3	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: jaws
+Number of Words: 23
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	'j'	'a'	 s 		0	1	2	0	
+ e 	'w'	's'	 f 		0	3	4	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: ads
+Number of Words: 24
+ a 	 s 	'd'	 e 		0	0	2	0	
+ j 	 j 	'a'	's'		0	0	1	3	
+ e 	 w 	 s 	 f 		0	0	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: aff
+Number of Words: 25
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	'a'	 s 		0	0	1	0	
+ e 	 w 	 s 	'f'		0	0	0	2	
+ p 	 o 	 k 	'f'		0	0	0	3	
+Word: ass
+Number of Words: 26
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	'a'	's'		0	0	1	2	
+ e 	 w 	's'	 f 		0	0	3	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: ask
+Number of Words: 27
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	'a'	 s 		0	0	1	0	
+ e 	 w 	's'	 f 		0	0	2	0	
+ p 	 o 	'k'	 f 		0	0	3	0	
+Word: awe
+Number of Words: 28
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	'a'	 s 		0	0	1	0	
+'e'	'w'	 s 	 f 		3	2	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: sea
+Number of Words: 29
+ a 	 s 	 d 	'e'		0	0	0	2	
+ j 	 j 	'a'	's'		0	0	3	1	
+ e 	 w 	 s 	 f 		0	0	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: seas
+Number of Words: 30
+ a 	 s 	 d 	'e'		0	0	0	2	
+ j 	 j 	'a'	's'		0	0	3	1	
+ e 	 w 	's'	 f 		0	0	4	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: epos
+Number of Words: 31
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	 a 	 s 		0	0	0	0	
+'e'	 w 	's'	 f 		1	0	4	0	
+'p'	'o'	 k 	 f 		2	3	0	0	
+Word: wad
+Number of Words: 32
+ a 	 s 	'd'	 e 		0	0	3	0	
+ j 	 j 	'a'	 s 		0	0	2	0	
+ e 	'w'	 s 	 f 		0	1	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: wade
+Number of Words: 33
+ a 	 s 	'd'	'e'		0	0	3	4	
+ j 	 j 	'a'	 s 		0	0	2	0	
+ e 	'w'	 s 	 f 		0	1	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: wades
+Number of Words: 34
+ a 	 s 	'd'	'e'		0	0	3	4	
+ j 	 j 	'a'	's'		0	0	2	5	
+ e 	'w'	 s 	 f 		0	1	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: wads
+Number of Words: 35
+ a 	 s 	'd'	 e 		0	0	3	0	
+ j 	 j 	'a'	's'		0	0	2	4	
+ e 	'w'	 s 	 f 		0	1	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: wae
+Number of Words: 36
+ a 	 s 	 d 	'e'		0	0	0	3	
+ j 	 j 	'a'	 s 		0	0	2	0	
+ e 	'w'	 s 	 f 		0	1	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: waes
+Number of Words: 37
+ a 	 s 	 d 	'e'		0	0	0	3	
+ j 	 j 	'a'	's'		0	0	2	4	
+ e 	'w'	 s 	 f 		0	1	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: waff
+Number of Words: 38
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	'a'	 s 		0	0	2	0	
+ e 	'w'	 s 	'f'		0	1	0	3	
+ p 	 o 	 k 	'f'		0	0	0	4	
+Word: waffs
+Number of Words: 39
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	'a'	 s 		0	0	2	0	
+ e 	'w'	's'	'f'		0	1	5	3	
+ p 	 o 	 k 	'f'		0	0	0	4	
+Word: was
+Number of Words: 40
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	'a'	's'		0	0	2	3	
+ e 	'w'	 s 	 f 		0	1	0	0	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: woe
+Number of Words: 41
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	 a 	 s 		0	0	0	0	
+'e'	'w'	 s 	 f 		3	1	0	0	
+ p 	'o'	 k 	 f 		0	2	0	0	
+Word: wok
+Number of Words: 42
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	 a 	 s 		0	0	0	0	
+ e 	'w'	 s 	 f 		0	1	0	0	
+ p 	'o'	'k'	 f 		0	2	3	0	
+Word: woks
+Number of Words: 43
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	 a 	 s 		0	0	0	0	
+ e 	'w'	's'	 f 		0	1	4	0	
+ p 	'o'	'k'	 f 		0	2	3	0	
+Word: wop
+Number of Words: 44
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	 a 	 s 		0	0	0	0	
+ e 	'w'	 s 	 f 		0	1	0	0	
+'p'	'o'	 k 	 f 		3	2	0	0	
+Word: wos
+Number of Words: 45
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	 a 	 s 		0	0	0	0	
+ e 	'w'	's'	 f 		0	1	3	0	
+ p 	'o'	 k 	 f 		0	2	0	0	
+Word: sop
+Number of Words: 46
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	 a 	 s 		0	0	0	0	
+ e 	 w 	's'	 f 		0	0	1	0	
+'p'	'o'	 k 	 f 		3	2	0	0	
+Word: sow
+Number of Words: 47
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	 a 	 s 		0	0	0	0	
+ e 	'w'	's'	 f 		0	3	1	0	
+ p 	'o'	 k 	 f 		0	2	0	0	
+Word: swop
+Number of Words: 48
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	 a 	 s 		0	0	0	0	
+ e 	'w'	's'	 f 		0	2	1	0	
+'p'	'o'	 k 	 f 		4	3	0	0	
+Word: fad
+Number of Words: 49
+ a 	 s 	'd'	 e 		0	0	3	0	
+ j 	 j 	'a'	 s 		0	0	2	0	
+ e 	 w 	 s 	'f'		0	0	0	1	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: fade
+Number of Words: 50
+ a 	 s 	'd'	'e'		0	0	3	4	
+ j 	 j 	'a'	 s 		0	0	2	0	
+ e 	 w 	 s 	'f'		0	0	0	1	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: fades
+Number of Words: 51
+ a 	 s 	'd'	'e'		0	0	3	4	
+ j 	 j 	'a'	's'		0	0	2	5	
+ e 	 w 	 s 	'f'		0	0	0	1	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: fads
+Number of Words: 52
+ a 	 s 	'd'	 e 		0	0	3	0	
+ j 	 j 	'a'	's'		0	0	2	4	
+ e 	 w 	 s 	'f'		0	0	0	1	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: fas
+Number of Words: 53
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	'a'	's'		0	0	2	3	
+ e 	 w 	 s 	'f'		0	0	0	1	
+ p 	 o 	 k 	 f 		0	0	0	0	
+Word: pew
+Number of Words: 54
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	 a 	 s 		0	0	0	0	
+'e'	'w'	 s 	 f 		2	3	0	0	
+'p'	 o 	 k 	 f 		1	0	0	0	
+Word: pews
+Number of Words: 55
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	 a 	 s 		0	0	0	0	
+'e'	'w'	's'	 f 		2	3	4	0	
+'p'	 o 	 k 	 f 		1	0	0	0	
+Word: posse
+Number of Words: 56
+ a 	 s 	 d 	'e'		0	0	0	5	
+ j 	 j 	 a 	's'		0	0	0	4	
+ e 	 w 	's'	 f 		0	0	3	0	
+'p'	'o'	 k 	 f 		1	2	0	0	
+Word: pow
+Number of Words: 57
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	 a 	 s 		0	0	0	0	
+ e 	'w'	 s 	 f 		0	3	0	0	
+'p'	'o'	 k 	 f 		1	2	0	0	
+Word: pows
+Number of Words: 58
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	 a 	 s 		0	0	0	0	
+ e 	'w'	's'	 f 		0	3	4	0	
+'p'	'o'	 k 	 f 		1	2	0	0	
+Word: ope
+Number of Words: 59
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	 a 	 s 		0	0	0	0	
+'e'	 w 	 s 	 f 		3	0	0	0	
+'p'	'o'	 k 	 f 		2	1	0	0	
+Word: ossa
+Number of Words: 60
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	'a'	's'		0	0	4	3	
+ e 	 w 	's'	 f 		0	0	2	0	
+ p 	'o'	 k 	 f 		0	1	0	0	
+Word: owe
+Number of Words: 61
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	 a 	 s 		0	0	0	0	
+'e'	'w'	 s 	 f 		3	2	0	0	
+ p 	'o'	 k 	 f 		0	1	0	0	
+Word: kop
+Number of Words: 62
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	 a 	 s 		0	0	0	0	
+ e 	 w 	 s 	 f 		0	0	0	0	
+'p'	'o'	'k'	 f 		3	2	1	0	
+Word: kos
+Number of Words: 63
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	 a 	 s 		0	0	0	0	
+ e 	 w 	's'	 f 		0	0	3	0	
+ p 	'o'	'k'	 f 		0	2	1	0	
+Word: koss
+Number of Words: 64
+ a 	 s 	 d 	 e 		0	0	0	0	
+ j 	 j 	 a 	's'		0	0	0	4	
+ e 	 w 	's'	 f 		0	0	3	0	
+ p 	'o'	'k'	 f 		0	2	1	0	
+
+Enter Board
+------------
+Row 0: r e t w 
+Row 1: s a f i 
+Row 2: l a o g 
+Row 3: j k c i 
+Show Board (y/n)?: n
+1	raft
+2	ras
+3	rase
+4	rat
+5	rate
+6	rates
+7	ratio
+8	real
+9	reals
+10	ref
+11	refit
+12	reft
+13	res
+14	ret
+15	ear
+16	ears
+17	eat
+18	eft
+19	era
+20	eras
+21	ers
+22	eta
+23	etas
+24	tae
+25	tala
+26	talas
+27	talk
+28	tao
+29	tar
+30	tare
+31	tares
+32	tars
+33	tarsal
+34	tas
+35	tea
+36	teal
+37	teals
+38	tear
+39	tears
+40	teas
+41	tesla
+42	twig
+43	wife
+44	wifes
+45	wig
+46	wit
+47	wite
+48	wites
+49	sac
+50	sack
+51	safe
+52	safer
+53	sal
+54	sae
+55	sat
+56	sate
+57	sati
+58	sea
+59	seal
+60	sear
+61	seat
+62	ser
+63	sera
+64	seral
+65	set
+66	seta
+67	setal
+68	slack
+69	slat
+70	slate
+71	slater
+72	aal
+73	aals
+74	aas
+75	aft
+76	after
+77	afters
+78	ala
+79	alack
+80	alas
+81	als
+82	are
+83	ares
+84	ars
+85	arse
+86	ate
+87	ates
+88	false
+89	falser
+90	fas
+91	far
+92	fare
+93	fares
+94	fat
+95	fate
+96	fates
+97	feal
+98	fear
+99	fears
+100	feat
+101	fer
+102	feral
+103	fet
+104	feta
+105	fetal
+106	fetas
+107	fig
+108	fit
+109	foal
+110	foals
+111	focal
+112	foci
+113	fog
+114	lac
+115	lack
+116	las
+117	lase
+118	laser
+119	lar
+120	lares
+121	lars
+122	lat
+123	late
+124	later
+125	lati
+126	latigo
+127	afar
+128	afars
+129	alae
+130	alar
+131	alate
+132	asea
+133	oaf
+134	oak
+135	oar
+136	oars
+137	oat
+138	oater
+139	oaters
+140	oca
+141	ocas
+142	oft
+143	ofter
+144	oka
+145	okas
+146	gift
+147	git
+148	goa
+149	goal
+150	goals
+151	goas
+152	goat
+153	gofer
+154	goiter
+155	goiters
+156	jack
+157	jlao
+158	kaas
+159	kaf
+160	kas
+161	koa
+162	koala
+163	koalas
+164	koas
+165	cafe
+166	cafes
+167	calk
+168	casa
+169	case
+170	coal
+171	coala
+172	coalas
+173	coals
+174	coarse
+175	coat
+176	coater
+177	coaters
+178	coati
+179	coft
+180	cog
+181	coif
+182	coital
+183	ick
+
+Enter Board
+------------
+Row 0: r e t w 
+Row 1: s a f i 
+Row 2: l a o g 
+Row 3: j k c i 
+Show Board (y/n)?: y
+Word: raft
+Number of Words: 1
+'r'	 e 	't'	 w 		1	0	4	0	
+ s 	'a'	'f'	 i 		0	2	3	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: ras
+Number of Words: 2
+'r'	 e 	 t 	 w 		1	0	0	0	
+'s'	'a'	 f 	 i 		3	2	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: rase
+Number of Words: 3
+'r'	'e'	 t 	 w 		1	4	0	0	
+'s'	'a'	 f 	 i 		3	2	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: rat
+Number of Words: 4
+'r'	 e 	't'	 w 		1	0	3	0	
+ s 	'a'	 f 	 i 		0	2	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: rate
+Number of Words: 5
+'r'	'e'	't'	 w 		1	4	3	0	
+ s 	'a'	 f 	 i 		0	2	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: rates
+Number of Words: 6
+'r'	'e'	't'	 w 		1	4	3	0	
+'s'	'a'	 f 	 i 		5	2	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: ratio
+Number of Words: 7
+'r'	 e 	't'	 w 		1	0	3	0	
+ s 	'a'	 f 	'i'		0	2	0	4	
+ l 	 a 	'o'	 g 		0	0	5	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: real
+Number of Words: 8
+'r'	'e'	 t 	 w 		1	2	0	0	
+ s 	'a'	 f 	 i 		0	3	0	0	
+'l'	 a 	 o 	 g 		4	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: reals
+Number of Words: 9
+'r'	'e'	 t 	 w 		1	2	0	0	
+'s'	'a'	 f 	 i 		5	3	0	0	
+'l'	 a 	 o 	 g 		4	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: ref
+Number of Words: 10
+'r'	'e'	 t 	 w 		1	2	0	0	
+ s 	 a 	'f'	 i 		0	0	3	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: refit
+Number of Words: 11
+'r'	'e'	't'	 w 		1	2	5	0	
+ s 	 a 	'f'	'i'		0	0	3	4	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: reft
+Number of Words: 12
+'r'	'e'	't'	 w 		1	2	4	0	
+ s 	 a 	'f'	 i 		0	0	3	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: res
+Number of Words: 13
+'r'	'e'	 t 	 w 		1	2	0	0	
+'s'	 a 	 f 	 i 		3	0	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: ret
+Number of Words: 14
+'r'	'e'	't'	 w 		1	2	3	0	
+ s 	 a 	 f 	 i 		0	0	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: ear
+Number of Words: 15
+'r'	'e'	 t 	 w 		3	1	0	0	
+ s 	'a'	 f 	 i 		0	2	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: ears
+Number of Words: 16
+'r'	'e'	 t 	 w 		3	1	0	0	
+'s'	'a'	 f 	 i 		4	2	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: eat
+Number of Words: 17
+ r 	'e'	't'	 w 		0	1	3	0	
+ s 	'a'	 f 	 i 		0	2	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: eft
+Number of Words: 18
+ r 	'e'	't'	 w 		0	1	3	0	
+ s 	 a 	'f'	 i 		0	0	2	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: era
+Number of Words: 19
+'r'	'e'	 t 	 w 		2	1	0	0	
+ s 	'a'	 f 	 i 		0	3	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: eras
+Number of Words: 20
+'r'	'e'	 t 	 w 		2	1	0	0	
+'s'	'a'	 f 	 i 		4	3	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: ers
+Number of Words: 21
+'r'	'e'	 t 	 w 		2	1	0	0	
+'s'	 a 	 f 	 i 		3	0	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: eta
+Number of Words: 22
+ r 	'e'	't'	 w 		0	1	2	0	
+ s 	'a'	 f 	 i 		0	3	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: etas
+Number of Words: 23
+ r 	'e'	't'	 w 		0	1	2	0	
+'s'	'a'	 f 	 i 		4	3	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: tae
+Number of Words: 24
+ r 	'e'	't'	 w 		0	3	1	0	
+ s 	'a'	 f 	 i 		0	2	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: tala
+Number of Words: 25
+ r 	 e 	't'	 w 		0	0	1	0	
+ s 	'a'	 f 	 i 		0	2	0	0	
+'l'	'a'	 o 	 g 		3	4	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: talas
+Number of Words: 26
+ r 	 e 	't'	 w 		0	0	1	0	
+'s'	'a'	 f 	 i 		5	2	0	0	
+'l'	'a'	 o 	 g 		3	4	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: talk
+Number of Words: 27
+ r 	 e 	't'	 w 		0	0	1	0	
+ s 	'a'	 f 	 i 		0	2	0	0	
+'l'	 a 	 o 	 g 		3	0	0	0	
+ j 	'k'	 c 	 i 		0	4	0	0	
+Word: tao
+Number of Words: 28
+ r 	 e 	't'	 w 		0	0	1	0	
+ s 	'a'	 f 	 i 		0	2	0	0	
+ l 	 a 	'o'	 g 		0	0	3	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: tar
+Number of Words: 29
+'r'	 e 	't'	 w 		3	0	1	0	
+ s 	'a'	 f 	 i 		0	2	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: tare
+Number of Words: 30
+'r'	'e'	't'	 w 		3	4	1	0	
+ s 	'a'	 f 	 i 		0	2	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: tares
+Number of Words: 31
+'r'	'e'	't'	 w 		3	4	1	0	
+'s'	'a'	 f 	 i 		5	2	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: tars
+Number of Words: 32
+'r'	 e 	't'	 w 		3	0	1	0	
+'s'	'a'	 f 	 i 		4	2	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: tarsal
+Number of Words: 33
+'r'	 e 	't'	 w 		3	0	1	0	
+'s'	'a'	 f 	 i 		4	2	0	0	
+'l'	'a'	 o 	 g 		6	5	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: tas
+Number of Words: 34
+ r 	 e 	't'	 w 		0	0	1	0	
+'s'	'a'	 f 	 i 		3	2	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: tea
+Number of Words: 35
+ r 	'e'	't'	 w 		0	2	1	0	
+ s 	'a'	 f 	 i 		0	3	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: teal
+Number of Words: 36
+ r 	'e'	't'	 w 		0	2	1	0	
+ s 	'a'	 f 	 i 		0	3	0	0	
+'l'	 a 	 o 	 g 		4	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: teals
+Number of Words: 37
+ r 	'e'	't'	 w 		0	2	1	0	
+'s'	'a'	 f 	 i 		5	3	0	0	
+'l'	 a 	 o 	 g 		4	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: tear
+Number of Words: 38
+'r'	'e'	't'	 w 		4	2	1	0	
+ s 	'a'	 f 	 i 		0	3	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: tears
+Number of Words: 39
+'r'	'e'	't'	 w 		4	2	1	0	
+'s'	'a'	 f 	 i 		5	3	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: teas
+Number of Words: 40
+ r 	'e'	't'	 w 		0	2	1	0	
+'s'	'a'	 f 	 i 		4	3	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: tesla
+Number of Words: 41
+ r 	'e'	't'	 w 		0	2	1	0	
+'s'	 a 	 f 	 i 		3	0	0	0	
+'l'	'a'	 o 	 g 		4	5	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: twig
+Number of Words: 42
+ r 	 e 	't'	'w'		0	0	1	2	
+ s 	 a 	 f 	'i'		0	0	0	3	
+ l 	 a 	 o 	'g'		0	0	0	4	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: wife
+Number of Words: 43
+ r 	'e'	 t 	'w'		0	4	0	1	
+ s 	 a 	'f'	'i'		0	0	3	2	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: wifes
+Number of Words: 44
+ r 	'e'	 t 	'w'		0	4	0	1	
+'s'	 a 	'f'	'i'		5	0	3	2	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: wig
+Number of Words: 45
+ r 	 e 	 t 	'w'		0	0	0	1	
+ s 	 a 	 f 	'i'		0	0	0	2	
+ l 	 a 	 o 	'g'		0	0	0	3	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: wit
+Number of Words: 46
+ r 	 e 	't'	'w'		0	0	3	1	
+ s 	 a 	 f 	'i'		0	0	0	2	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: wite
+Number of Words: 47
+ r 	'e'	't'	'w'		0	4	3	1	
+ s 	 a 	 f 	'i'		0	0	0	2	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: wites
+Number of Words: 48
+ r 	'e'	't'	'w'		0	4	3	1	
+'s'	 a 	 f 	'i'		5	0	0	2	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: sac
+Number of Words: 49
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	 a 	 f 	 i 		1	0	0	0	
+ l 	'a'	 o 	 g 		0	2	0	0	
+ j 	 k 	'c'	 i 		0	0	3	0	
+Word: sack
+Number of Words: 50
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	 a 	 f 	 i 		1	0	0	0	
+ l 	'a'	 o 	 g 		0	2	0	0	
+ j 	'k'	'c'	 i 		0	4	3	0	
+Word: safe
+Number of Words: 51
+ r 	'e'	 t 	 w 		0	4	0	0	
+'s'	 a 	'f'	 i 		1	0	3	0	
+ l 	'a'	 o 	 g 		0	2	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: safer
+Number of Words: 52
+'r'	'e'	 t 	 w 		5	4	0	0	
+'s'	 a 	'f'	 i 		1	0	3	0	
+ l 	'a'	 o 	 g 		0	2	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: sal
+Number of Words: 53
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	 a 	 f 	 i 		1	0	0	0	
+'l'	'a'	 o 	 g 		3	2	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: sae
+Number of Words: 54
+ r 	'e'	 t 	 w 		0	3	0	0	
+'s'	'a'	 f 	 i 		1	2	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: sat
+Number of Words: 55
+ r 	 e 	't'	 w 		0	0	3	0	
+'s'	'a'	 f 	 i 		1	2	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: sate
+Number of Words: 56
+ r 	'e'	't'	 w 		0	4	3	0	
+'s'	'a'	 f 	 i 		1	2	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: sati
+Number of Words: 57
+ r 	 e 	't'	 w 		0	0	3	0	
+'s'	'a'	 f 	'i'		1	2	0	4	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: sea
+Number of Words: 58
+ r 	'e'	 t 	 w 		0	2	0	0	
+'s'	'a'	 f 	 i 		1	3	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: seal
+Number of Words: 59
+ r 	'e'	 t 	 w 		0	2	0	0	
+'s'	'a'	 f 	 i 		1	3	0	0	
+'l'	 a 	 o 	 g 		4	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: sear
+Number of Words: 60
+'r'	'e'	 t 	 w 		4	2	0	0	
+'s'	'a'	 f 	 i 		1	3	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: seat
+Number of Words: 61
+ r 	'e'	't'	 w 		0	2	4	0	
+'s'	'a'	 f 	 i 		1	3	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: ser
+Number of Words: 62
+'r'	'e'	 t 	 w 		3	2	0	0	
+'s'	 a 	 f 	 i 		1	0	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: sera
+Number of Words: 63
+'r'	'e'	 t 	 w 		3	2	0	0	
+'s'	'a'	 f 	 i 		1	4	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: seral
+Number of Words: 64
+'r'	'e'	 t 	 w 		3	2	0	0	
+'s'	'a'	 f 	 i 		1	4	0	0	
+'l'	 a 	 o 	 g 		5	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: set
+Number of Words: 65
+ r 	'e'	't'	 w 		0	2	3	0	
+'s'	 a 	 f 	 i 		1	0	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: seta
+Number of Words: 66
+ r 	'e'	't'	 w 		0	2	3	0	
+'s'	'a'	 f 	 i 		1	4	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: setal
+Number of Words: 67
+ r 	'e'	't'	 w 		0	2	3	0	
+'s'	'a'	 f 	 i 		1	4	0	0	
+'l'	 a 	 o 	 g 		5	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: slack
+Number of Words: 68
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	 a 	 f 	 i 		1	0	0	0	
+'l'	'a'	 o 	 g 		2	3	0	0	
+ j 	'k'	'c'	 i 		0	5	4	0	
+Word: slat
+Number of Words: 69
+ r 	 e 	't'	 w 		0	0	4	0	
+'s'	'a'	 f 	 i 		1	3	0	0	
+'l'	 a 	 o 	 g 		2	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: slate
+Number of Words: 70
+ r 	'e'	't'	 w 		0	5	4	0	
+'s'	'a'	 f 	 i 		1	3	0	0	
+'l'	 a 	 o 	 g 		2	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: slater
+Number of Words: 71
+'r'	'e'	't'	 w 		6	5	4	0	
+'s'	'a'	 f 	 i 		1	3	0	0	
+'l'	 a 	 o 	 g 		2	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: aal
+Number of Words: 72
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	'a'	 f 	 i 		0	1	0	0	
+'l'	'a'	 o 	 g 		3	2	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: aals
+Number of Words: 73
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	'a'	 f 	 i 		4	1	0	0	
+'l'	'a'	 o 	 g 		3	2	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: aas
+Number of Words: 74
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	'a'	 f 	 i 		3	1	0	0	
+ l 	'a'	 o 	 g 		0	2	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: aft
+Number of Words: 75
+ r 	 e 	't'	 w 		0	0	3	0	
+ s 	'a'	'f'	 i 		0	1	2	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: after
+Number of Words: 76
+'r'	'e'	't'	 w 		5	4	3	0	
+ s 	'a'	'f'	 i 		0	1	2	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: afters
+Number of Words: 77
+'r'	'e'	't'	 w 		5	4	3	0	
+'s'	'a'	'f'	 i 		6	1	2	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: ala
+Number of Words: 78
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	'a'	 f 	 i 		0	1	0	0	
+'l'	'a'	 o 	 g 		2	3	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: alack
+Number of Words: 79
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	'a'	 f 	 i 		0	1	0	0	
+'l'	'a'	 o 	 g 		2	3	0	0	
+ j 	'k'	'c'	 i 		0	5	4	0	
+Word: alas
+Number of Words: 80
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	'a'	 f 	 i 		4	1	0	0	
+'l'	'a'	 o 	 g 		2	3	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: als
+Number of Words: 81
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	'a'	 f 	 i 		3	1	0	0	
+'l'	 a 	 o 	 g 		2	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: are
+Number of Words: 82
+'r'	'e'	 t 	 w 		2	3	0	0	
+ s 	'a'	 f 	 i 		0	1	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: ares
+Number of Words: 83
+'r'	'e'	 t 	 w 		2	3	0	0	
+'s'	'a'	 f 	 i 		4	1	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: ars
+Number of Words: 84
+'r'	 e 	 t 	 w 		2	0	0	0	
+'s'	'a'	 f 	 i 		3	1	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: arse
+Number of Words: 85
+'r'	'e'	 t 	 w 		2	4	0	0	
+'s'	'a'	 f 	 i 		3	1	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: ate
+Number of Words: 86
+ r 	'e'	't'	 w 		0	3	2	0	
+ s 	'a'	 f 	 i 		0	1	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: ates
+Number of Words: 87
+ r 	'e'	't'	 w 		0	3	2	0	
+'s'	'a'	 f 	 i 		4	1	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: false
+Number of Words: 88
+ r 	'e'	 t 	 w 		0	5	0	0	
+'s'	 a 	'f'	 i 		4	0	1	0	
+'l'	'a'	 o 	 g 		3	2	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: falser
+Number of Words: 89
+'r'	'e'	 t 	 w 		6	5	0	0	
+'s'	 a 	'f'	 i 		4	0	1	0	
+'l'	'a'	 o 	 g 		3	2	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: fas
+Number of Words: 90
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	 a 	'f'	 i 		3	0	1	0	
+ l 	'a'	 o 	 g 		0	2	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: far
+Number of Words: 91
+'r'	 e 	 t 	 w 		3	0	0	0	
+ s 	'a'	'f'	 i 		0	2	1	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: fare
+Number of Words: 92
+'r'	'e'	 t 	 w 		3	4	0	0	
+ s 	'a'	'f'	 i 		0	2	1	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: fares
+Number of Words: 93
+'r'	'e'	 t 	 w 		3	4	0	0	
+'s'	'a'	'f'	 i 		5	2	1	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: fat
+Number of Words: 94
+ r 	 e 	't'	 w 		0	0	3	0	
+ s 	'a'	'f'	 i 		0	2	1	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: fate
+Number of Words: 95
+ r 	'e'	't'	 w 		0	4	3	0	
+ s 	'a'	'f'	 i 		0	2	1	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: fates
+Number of Words: 96
+ r 	'e'	't'	 w 		0	4	3	0	
+'s'	'a'	'f'	 i 		5	2	1	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: feal
+Number of Words: 97
+ r 	'e'	 t 	 w 		0	2	0	0	
+ s 	'a'	'f'	 i 		0	3	1	0	
+'l'	 a 	 o 	 g 		4	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: fear
+Number of Words: 98
+'r'	'e'	 t 	 w 		4	2	0	0	
+ s 	'a'	'f'	 i 		0	3	1	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: fears
+Number of Words: 99
+'r'	'e'	 t 	 w 		4	2	0	0	
+'s'	'a'	'f'	 i 		5	3	1	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: feat
+Number of Words: 100
+ r 	'e'	't'	 w 		0	2	4	0	
+ s 	'a'	'f'	 i 		0	3	1	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: fer
+Number of Words: 101
+'r'	'e'	 t 	 w 		3	2	0	0	
+ s 	 a 	'f'	 i 		0	0	1	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: feral
+Number of Words: 102
+'r'	'e'	 t 	 w 		3	2	0	0	
+ s 	'a'	'f'	 i 		0	4	1	0	
+'l'	 a 	 o 	 g 		5	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: fet
+Number of Words: 103
+ r 	'e'	't'	 w 		0	2	3	0	
+ s 	 a 	'f'	 i 		0	0	1	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: feta
+Number of Words: 104
+ r 	'e'	't'	 w 		0	2	3	0	
+ s 	'a'	'f'	 i 		0	4	1	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: fetal
+Number of Words: 105
+ r 	'e'	't'	 w 		0	2	3	0	
+ s 	'a'	'f'	 i 		0	4	1	0	
+'l'	 a 	 o 	 g 		5	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: fetas
+Number of Words: 106
+ r 	'e'	't'	 w 		0	2	3	0	
+'s'	'a'	'f'	 i 		5	4	1	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: fig
+Number of Words: 107
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	'f'	'i'		0	0	1	2	
+ l 	 a 	 o 	'g'		0	0	0	3	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: fit
+Number of Words: 108
+ r 	 e 	't'	 w 		0	0	3	0	
+ s 	 a 	'f'	'i'		0	0	1	2	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: foal
+Number of Words: 109
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	'f'	 i 		0	0	1	0	
+'l'	'a'	'o'	 g 		4	3	2	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: foals
+Number of Words: 110
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	 a 	'f'	 i 		5	0	1	0	
+'l'	'a'	'o'	 g 		4	3	2	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: focal
+Number of Words: 111
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	'f'	 i 		0	0	1	0	
+'l'	'a'	'o'	 g 		5	4	2	0	
+ j 	 k 	'c'	 i 		0	0	3	0	
+Word: foci
+Number of Words: 112
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	'f'	 i 		0	0	1	0	
+ l 	 a 	'o'	 g 		0	0	2	0	
+ j 	 k 	'c'	'i'		0	0	3	4	
+Word: fog
+Number of Words: 113
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	'f'	 i 		0	0	1	0	
+ l 	 a 	'o'	'g'		0	0	2	3	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: lac
+Number of Words: 114
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	 f 	 i 		0	0	0	0	
+'l'	'a'	 o 	 g 		1	2	0	0	
+ j 	 k 	'c'	 i 		0	0	3	0	
+Word: lack
+Number of Words: 115
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	 f 	 i 		0	0	0	0	
+'l'	'a'	 o 	 g 		1	2	0	0	
+ j 	'k'	'c'	 i 		0	4	3	0	
+Word: las
+Number of Words: 116
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	 a 	 f 	 i 		3	0	0	0	
+'l'	'a'	 o 	 g 		1	2	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: lase
+Number of Words: 117
+ r 	'e'	 t 	 w 		0	4	0	0	
+'s'	 a 	 f 	 i 		3	0	0	0	
+'l'	'a'	 o 	 g 		1	2	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: laser
+Number of Words: 118
+'r'	'e'	 t 	 w 		5	4	0	0	
+'s'	 a 	 f 	 i 		3	0	0	0	
+'l'	'a'	 o 	 g 		1	2	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: lar
+Number of Words: 119
+'r'	 e 	 t 	 w 		3	0	0	0	
+ s 	'a'	 f 	 i 		0	2	0	0	
+'l'	 a 	 o 	 g 		1	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: lares
+Number of Words: 120
+'r'	'e'	 t 	 w 		3	4	0	0	
+'s'	'a'	 f 	 i 		5	2	0	0	
+'l'	 a 	 o 	 g 		1	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: lars
+Number of Words: 121
+'r'	 e 	 t 	 w 		3	0	0	0	
+'s'	'a'	 f 	 i 		4	2	0	0	
+'l'	 a 	 o 	 g 		1	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: lat
+Number of Words: 122
+ r 	 e 	't'	 w 		0	0	3	0	
+ s 	'a'	 f 	 i 		0	2	0	0	
+'l'	 a 	 o 	 g 		1	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: late
+Number of Words: 123
+ r 	'e'	't'	 w 		0	4	3	0	
+ s 	'a'	 f 	 i 		0	2	0	0	
+'l'	 a 	 o 	 g 		1	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: later
+Number of Words: 124
+'r'	'e'	't'	 w 		5	4	3	0	
+ s 	'a'	 f 	 i 		0	2	0	0	
+'l'	 a 	 o 	 g 		1	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: lati
+Number of Words: 125
+ r 	 e 	't'	 w 		0	0	3	0	
+ s 	'a'	 f 	'i'		0	2	0	4	
+'l'	 a 	 o 	 g 		1	0	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: latigo
+Number of Words: 126
+ r 	 e 	't'	 w 		0	0	3	0	
+ s 	'a'	 f 	'i'		0	2	0	4	
+'l'	 a 	'o'	'g'		1	0	6	5	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: afar
+Number of Words: 127
+'r'	 e 	 t 	 w 		4	0	0	0	
+ s 	'a'	'f'	 i 		0	3	2	0	
+ l 	'a'	 o 	 g 		0	1	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: afars
+Number of Words: 128
+'r'	 e 	 t 	 w 		4	0	0	0	
+'s'	'a'	'f'	 i 		5	3	2	0	
+ l 	'a'	 o 	 g 		0	1	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: alae
+Number of Words: 129
+ r 	'e'	 t 	 w 		0	4	0	0	
+ s 	'a'	 f 	 i 		0	3	0	0	
+'l'	'a'	 o 	 g 		2	1	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: alar
+Number of Words: 130
+'r'	 e 	 t 	 w 		4	0	0	0	
+ s 	'a'	 f 	 i 		0	3	0	0	
+'l'	'a'	 o 	 g 		2	1	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: alate
+Number of Words: 131
+ r 	'e'	't'	 w 		0	5	4	0	
+ s 	'a'	 f 	 i 		0	3	0	0	
+'l'	'a'	 o 	 g 		2	1	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: asea
+Number of Words: 132
+ r 	'e'	 t 	 w 		0	3	0	0	
+'s'	'a'	 f 	 i 		2	4	0	0	
+ l 	'a'	 o 	 g 		0	1	0	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: oaf
+Number of Words: 133
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	'f'	 i 		0	0	3	0	
+ l 	'a'	'o'	 g 		0	2	1	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: oak
+Number of Words: 134
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	 f 	 i 		0	0	0	0	
+ l 	'a'	'o'	 g 		0	2	1	0	
+ j 	'k'	 c 	 i 		0	3	0	0	
+Word: oar
+Number of Words: 135
+'r'	 e 	 t 	 w 		3	0	0	0	
+ s 	'a'	 f 	 i 		0	2	0	0	
+ l 	 a 	'o'	 g 		0	0	1	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: oars
+Number of Words: 136
+'r'	 e 	 t 	 w 		3	0	0	0	
+'s'	'a'	 f 	 i 		4	2	0	0	
+ l 	 a 	'o'	 g 		0	0	1	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: oat
+Number of Words: 137
+ r 	 e 	't'	 w 		0	0	3	0	
+ s 	'a'	 f 	 i 		0	2	0	0	
+ l 	 a 	'o'	 g 		0	0	1	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: oater
+Number of Words: 138
+'r'	'e'	't'	 w 		5	4	3	0	
+ s 	'a'	 f 	 i 		0	2	0	0	
+ l 	 a 	'o'	 g 		0	0	1	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: oaters
+Number of Words: 139
+'r'	'e'	't'	 w 		5	4	3	0	
+'s'	'a'	 f 	 i 		6	2	0	0	
+ l 	 a 	'o'	 g 		0	0	1	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: oca
+Number of Words: 140
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	 f 	 i 		0	0	0	0	
+ l 	'a'	'o'	 g 		0	3	1	0	
+ j 	 k 	'c'	 i 		0	0	2	0	
+Word: ocas
+Number of Words: 141
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	 a 	 f 	 i 		4	0	0	0	
+ l 	'a'	'o'	 g 		0	3	1	0	
+ j 	 k 	'c'	 i 		0	0	2	0	
+Word: oft
+Number of Words: 142
+ r 	 e 	't'	 w 		0	0	3	0	
+ s 	 a 	'f'	 i 		0	0	2	0	
+ l 	 a 	'o'	 g 		0	0	1	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: ofter
+Number of Words: 143
+'r'	'e'	't'	 w 		5	4	3	0	
+ s 	 a 	'f'	 i 		0	0	2	0	
+ l 	 a 	'o'	 g 		0	0	1	0	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: oka
+Number of Words: 144
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	 f 	 i 		0	0	0	0	
+ l 	'a'	'o'	 g 		0	3	1	0	
+ j 	'k'	 c 	 i 		0	2	0	0	
+Word: okas
+Number of Words: 145
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	 a 	 f 	 i 		4	0	0	0	
+ l 	'a'	'o'	 g 		0	3	1	0	
+ j 	'k'	 c 	 i 		0	2	0	0	
+Word: gift
+Number of Words: 146
+ r 	 e 	't'	 w 		0	0	4	0	
+ s 	 a 	'f'	'i'		0	0	3	2	
+ l 	 a 	 o 	'g'		0	0	0	1	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: git
+Number of Words: 147
+ r 	 e 	't'	 w 		0	0	3	0	
+ s 	 a 	 f 	'i'		0	0	0	2	
+ l 	 a 	 o 	'g'		0	0	0	1	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: goa
+Number of Words: 148
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	 f 	 i 		0	0	0	0	
+ l 	'a'	'o'	'g'		0	3	2	1	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: goal
+Number of Words: 149
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	 f 	 i 		0	0	0	0	
+'l'	'a'	'o'	'g'		4	3	2	1	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: goals
+Number of Words: 150
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	 a 	 f 	 i 		5	0	0	0	
+'l'	'a'	'o'	'g'		4	3	2	1	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: goas
+Number of Words: 151
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	 a 	 f 	 i 		4	0	0	0	
+ l 	'a'	'o'	'g'		0	3	2	1	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: goat
+Number of Words: 152
+ r 	 e 	't'	 w 		0	0	4	0	
+ s 	'a'	 f 	 i 		0	3	0	0	
+ l 	 a 	'o'	'g'		0	0	2	1	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: gofer
+Number of Words: 153
+'r'	'e'	 t 	 w 		5	4	0	0	
+ s 	 a 	'f'	 i 		0	0	3	0	
+ l 	 a 	'o'	'g'		0	0	2	1	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: goiter
+Number of Words: 154
+'r'	'e'	't'	 w 		6	5	4	0	
+ s 	 a 	 f 	'i'		0	0	0	3	
+ l 	 a 	'o'	'g'		0	0	2	1	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: goiters
+Number of Words: 155
+'r'	'e'	't'	 w 		6	5	4	0	
+'s'	 a 	 f 	'i'		7	0	0	3	
+ l 	 a 	'o'	'g'		0	0	2	1	
+ j 	 k 	 c 	 i 		0	0	0	0	
+Word: jack
+Number of Words: 156
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	 f 	 i 		0	0	0	0	
+ l 	'a'	 o 	 g 		0	2	0	0	
+'j'	'k'	'c'	 i 		1	4	3	0	
+Word: jlao
+Number of Words: 157
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	 f 	 i 		0	0	0	0	
+'l'	'a'	'o'	 g 		2	3	4	0	
+'j'	 k 	 c 	 i 		1	0	0	0	
+Word: kaas
+Number of Words: 158
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	'a'	 f 	 i 		4	3	0	0	
+ l 	'a'	 o 	 g 		0	2	0	0	
+ j 	'k'	 c 	 i 		0	1	0	0	
+Word: kaf
+Number of Words: 159
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	'f'	 i 		0	0	3	0	
+ l 	'a'	 o 	 g 		0	2	0	0	
+ j 	'k'	 c 	 i 		0	1	0	0	
+Word: kas
+Number of Words: 160
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	 a 	 f 	 i 		3	0	0	0	
+ l 	'a'	 o 	 g 		0	2	0	0	
+ j 	'k'	 c 	 i 		0	1	0	0	
+Word: koa
+Number of Words: 161
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	 f 	 i 		0	0	0	0	
+ l 	'a'	'o'	 g 		0	3	2	0	
+ j 	'k'	 c 	 i 		0	1	0	0	
+Word: koala
+Number of Words: 162
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	'a'	 f 	 i 		0	5	0	0	
+'l'	'a'	'o'	 g 		4	3	2	0	
+ j 	'k'	 c 	 i 		0	1	0	0	
+Word: koalas
+Number of Words: 163
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	'a'	 f 	 i 		6	5	0	0	
+'l'	'a'	'o'	 g 		4	3	2	0	
+ j 	'k'	 c 	 i 		0	1	0	0	
+Word: koas
+Number of Words: 164
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	 a 	 f 	 i 		4	0	0	0	
+ l 	'a'	'o'	 g 		0	3	2	0	
+ j 	'k'	 c 	 i 		0	1	0	0	
+Word: cafe
+Number of Words: 165
+ r 	'e'	 t 	 w 		0	4	0	0	
+ s 	 a 	'f'	 i 		0	0	3	0	
+ l 	'a'	 o 	 g 		0	2	0	0	
+ j 	 k 	'c'	 i 		0	0	1	0	
+Word: cafes
+Number of Words: 166
+ r 	'e'	 t 	 w 		0	4	0	0	
+'s'	 a 	'f'	 i 		5	0	3	0	
+ l 	'a'	 o 	 g 		0	2	0	0	
+ j 	 k 	'c'	 i 		0	0	1	0	
+Word: calk
+Number of Words: 167
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	 f 	 i 		0	0	0	0	
+'l'	'a'	 o 	 g 		3	2	0	0	
+ j 	'k'	'c'	 i 		0	4	1	0	
+Word: casa
+Number of Words: 168
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	'a'	 f 	 i 		3	4	0	0	
+ l 	'a'	 o 	 g 		0	2	0	0	
+ j 	 k 	'c'	 i 		0	0	1	0	
+Word: case
+Number of Words: 169
+ r 	'e'	 t 	 w 		0	4	0	0	
+'s'	 a 	 f 	 i 		3	0	0	0	
+ l 	'a'	 o 	 g 		0	2	0	0	
+ j 	 k 	'c'	 i 		0	0	1	0	
+Word: coal
+Number of Words: 170
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	 f 	 i 		0	0	0	0	
+'l'	'a'	'o'	 g 		4	3	2	0	
+ j 	 k 	'c'	 i 		0	0	1	0	
+Word: coala
+Number of Words: 171
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	'a'	 f 	 i 		0	5	0	0	
+'l'	'a'	'o'	 g 		4	3	2	0	
+ j 	 k 	'c'	 i 		0	0	1	0	
+Word: coalas
+Number of Words: 172
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	'a'	 f 	 i 		6	5	0	0	
+'l'	'a'	'o'	 g 		4	3	2	0	
+ j 	 k 	'c'	 i 		0	0	1	0	
+Word: coals
+Number of Words: 173
+ r 	 e 	 t 	 w 		0	0	0	0	
+'s'	 a 	 f 	 i 		5	0	0	0	
+'l'	'a'	'o'	 g 		4	3	2	0	
+ j 	 k 	'c'	 i 		0	0	1	0	
+Word: coarse
+Number of Words: 174
+'r'	'e'	 t 	 w 		4	6	0	0	
+'s'	'a'	 f 	 i 		5	3	0	0	
+ l 	 a 	'o'	 g 		0	0	2	0	
+ j 	 k 	'c'	 i 		0	0	1	0	
+Word: coat
+Number of Words: 175
+ r 	 e 	't'	 w 		0	0	4	0	
+ s 	'a'	 f 	 i 		0	3	0	0	
+ l 	 a 	'o'	 g 		0	0	2	0	
+ j 	 k 	'c'	 i 		0	0	1	0	
+Word: coater
+Number of Words: 176
+'r'	'e'	't'	 w 		6	5	4	0	
+ s 	'a'	 f 	 i 		0	3	0	0	
+ l 	 a 	'o'	 g 		0	0	2	0	
+ j 	 k 	'c'	 i 		0	0	1	0	
+Word: coaters
+Number of Words: 177
+'r'	'e'	't'	 w 		6	5	4	0	
+'s'	'a'	 f 	 i 		7	3	0	0	
+ l 	 a 	'o'	 g 		0	0	2	0	
+ j 	 k 	'c'	 i 		0	0	1	0	
+Word: coati
+Number of Words: 178
+ r 	 e 	't'	 w 		0	0	4	0	
+ s 	'a'	 f 	'i'		0	3	0	5	
+ l 	 a 	'o'	 g 		0	0	2	0	
+ j 	 k 	'c'	 i 		0	0	1	0	
+Word: coft
+Number of Words: 179
+ r 	 e 	't'	 w 		0	0	4	0	
+ s 	 a 	'f'	 i 		0	0	3	0	
+ l 	 a 	'o'	 g 		0	0	2	0	
+ j 	 k 	'c'	 i 		0	0	1	0	
+Word: cog
+Number of Words: 180
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	 f 	 i 		0	0	0	0	
+ l 	 a 	'o'	'g'		0	0	2	3	
+ j 	 k 	'c'	 i 		0	0	1	0	
+Word: coif
+Number of Words: 181
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	'f'	'i'		0	0	4	3	
+ l 	 a 	'o'	 g 		0	0	2	0	
+ j 	 k 	'c'	 i 		0	0	1	0	
+Word: coital
+Number of Words: 182
+ r 	 e 	't'	 w 		0	0	4	0	
+ s 	'a'	 f 	'i'		0	5	0	3	
+'l'	 a 	'o'	 g 		6	0	2	0	
+ j 	 k 	'c'	 i 		0	0	1	0	
+Word: ick
+Number of Words: 183
+ r 	 e 	 t 	 w 		0	0	0	0	
+ s 	 a 	 f 	 i 		0	0	0	0	
+ l 	 a 	 o 	 g 		0	0	0	0	
+ j 	'k'	'c'	'i'		0	3	2	1	
+Testing completed.
